@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m Brandon, a Principal Data Scientist currently employed at GlobalLogic. I’ve worked across multiple industries as a consultant including agriculture, construction, utiliites, and automotive where I’ve solved a variety of challenging and interesting data science problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blee1077) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blee1077@gmail.com) 
